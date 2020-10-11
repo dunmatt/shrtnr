@@ -1,0 +1,13 @@
+[package]
+name = "shrtnr"
+description = "Shrtnr is a smart string shortener."
+version = "0.0.1"
+authors = [ "M@ Dunlap <mattdunlap@gmail.com>" ]
+categories = [ "shorten", "truncate", "prompt", "url" ]
+repository = "https://github.com/dunmatt/shrtnr"
+license = "MIT"
+
+[badges]
+maintenance = { status = "actively-developed" }
+
+[dependencies]
