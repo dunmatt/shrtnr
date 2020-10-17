@@ -1,5 +1,7 @@
 # shrtnr
-Shrtnr is a smart string shortener, suitable for command prompts, title bars, and other cases where a long string might need to fit into a single short line.
+Shrtnr is a smart string shortener, suitable for command prompts, title bars, and other cases where
+a long string might need to fit into a single short line.  It can be used either as a library or as
+a stand alone CLI application.
 
 ## Status
 I'm just starting development, definitely not ready for use yet.
@@ -19,7 +21,7 @@ Contributions, both in the form of PRs and Issues are very welcome!
 TODO
 (also, see the test cases)
 
-## Simpler String Shortening Crates
+## Simpler String Shortening Solutions
 * shorten-url
 * tico
 * others? (if you know of more feel free to send a PR that updates this readme!)

@@ -3,11 +3,15 @@ name = "shrtnr"
 description = "Shrtnr is a smart string shortener."
 version = "0.0.1"
 authors = [ "M@ Dunlap <mattdunlap@gmail.com>" ]
-categories = [ "shorten", "truncate", "prompt", "url" ]
+categories = [ "development-tools", "filesystem" ]
+keywords = [ "shorten", "truncate", "prompt", "url" ]
 repository = "https://github.com/dunmatt/shrtnr"
+edition = "2018"
 license = "MIT"
 
 [badges]
 maintenance = { status = "actively-developed" }
 
 [dependencies]
+lazy_static = "1"
+regex = "1"
